@@ -1,1 +1,2 @@
-# Transit_Checker
+Transit_Checker
+For checking Transit bus schedules.
